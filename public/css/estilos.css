@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.barra {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+}
+
+.home {
+    width: 800px;
+    height: 100%
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 35px;
+}
+h2{
+    font-size: 15px;
+}
+.history{
+    margin-right: 80px;
+    margin-left: 80px;
+    text-align: justify;
+}
+.student {
+    width: 70%;
+    height: 70%;
+}
+.ipod{
+    width: 50%;
+    height: 30%;
+}
